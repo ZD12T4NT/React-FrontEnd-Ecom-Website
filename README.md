@@ -1,3 +1,12 @@
+# React front end ecommerce website
+
+<img width="1440" alt="Screenshot 2022-03-27 at 21 21 48" src="https://user-images.githubusercontent.com/90347734/160300802-0931caf1-79dc-4e19-a982-aeced429d666.png">
+
+I created this website to test my knowledge in react. I plan on creating a backend to this application in the future!
+
+<hr>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
